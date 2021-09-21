@@ -1,4 +1,4 @@
-# minhasTarefas
+# Minhas Tarefas
 Aplicação em Flutter integrada ao Firebase.
 
 <p>É possível inserir uma tarefa, deletar, ler e alterar estado da tarefa, que pode ser "fazer", "fazendo" e "feito".</p> 
